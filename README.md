@@ -38,6 +38,4 @@ That production architecture, its security controls, and provider calls are **fu
 - No authentication, persistence, real call controls, provider webhooks, or production privacy/security controls are included.
 - Before recording, transcribing, streaming, or analyzing real calls, obtain any consent required from every participant under applicable law and organizational policy. Clearly notify participants, provide a way to opt out, minimize collected data, restrict access, set retention/deletion rules, and avoid using sentiment or AI suggestions as the sole basis for consequential decisions.
 
-## Interview guide
 
-See [`docs/interview-guide.pdf`](docs/interview-guide.pdf) for a concise walkthrough of the problem, architecture, demo, trade-offs, and production roadmap. The source content is in [`docs/interview-guide.md`](docs/interview-guide.md).
